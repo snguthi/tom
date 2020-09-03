@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: rgb(7, 35, 82);
+    font-style: oblique;
+    text-decoration-line: underline;
+}
+
+h2 {
+    color: rgb(8, 8, 94);
+    font-style: italic;
+    text-align-last: left;
+    text-decoration-line: underline;
+}
+
+p {
+    color: darkcyan;
+    font-weight: 600;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* text-align-last: center; */
+    line-height: 40px;
+}
+
+ul {
+    line-height: 20px;
+    color: rgb(28, 145, 145);
+    /* text-align: center; */
+}
+
+body {
+    background-image: url(../images/tom.jpg);
+} 
+
+footer {
+    text-align: center;
+    margin-top: 140px;
+}
